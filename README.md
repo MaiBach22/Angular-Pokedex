@@ -1,5 +1,5 @@
 # Pokedex
-https://hovinhthanh7893.github.io/pokedex/
+
 
 # WORK ON MAIN BRANCH
 git checkout main
