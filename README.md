@@ -43,5 +43,3 @@ ng g c footer
 ## Install package for gh-pages
 ng add angular-cli-ghpages
 
-## Deploy to gh-pages
-ng deploy --base-href=https://hovinhthanh7893.github.io/pokedex/
